@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thaivinhtoan/thaivinhtoan/issues"
   },
-  "homepage": "https://github.com/thaivinhtoan/thaivinhtoan#readme"
+  "homepage": "https://github.com/thaivinhtoan/thaivinhtoan#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
