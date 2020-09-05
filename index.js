@@ -1,6 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
-const topLanguages = fs.readFileSync("topLanguages.txt", "utf8");
+const topLanguages = fs.readFileSync("content/topLanguages.txt", "utf8");
 
 const getQuote = async () => {
   try {
