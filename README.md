@@ -2,7 +2,7 @@ _**People rise to the occasion without hesitation when they feel inspired and ch
 
 Lorii Myers
 
-## NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
+* NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos! *
 
 
 <a href="https://github.com/thaivinhtoan">
