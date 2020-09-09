@@ -1,6 +1,6 @@
-_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+_**Extend beyond your preconceived limits!**_
 
-Christiane Northrup
+Lorii Myers
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
