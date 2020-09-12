@@ -1,6 +1,6 @@
-_**We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.**_
+_**Think ahead. Don't let day-to-day operations drive out planning.**_
 
-Sheryl Sandberg
+Donald Rumsfeld
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
