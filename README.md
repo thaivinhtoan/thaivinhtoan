@@ -1,6 +1,6 @@
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**I hated every minute of training, but I said, ‘Don’t quit. Suffer now and live the rest of your life as a champion.'**_
 
-Jean Shinoda Bolen
+Mohamad Ali
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
