@@ -1,6 +1,6 @@
-_**If you respect yourself in stressful situations, it will help you see the positive… It will help you see the message in the mess.**_
+_**A loser doesn't know what he'll do if he loses, but talks about what he'll do if he wins, and a winner doesn't talk about what he'll do if he wins, but knows what he'll do if he loses.**_
 
-Steve Maraboli
+null
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
