@@ -1,6 +1,6 @@
-_**Whether you think you can or think you can’t, you’re right....**_
+_**Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.**_
 
-Henry Ford
+Mark Bezos
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
