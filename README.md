@@ -1,6 +1,6 @@
-_**Don't count the days; make the days count.**_
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
 
-Mohamad Ali
+Lorii Myers
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
