@@ -1,6 +1,6 @@
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+_**The beginning of freedom is the realization that you are not the possessing entity the thinker.**_
 
-Lorii Myers
+Eckhart Tolle
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
