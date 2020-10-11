@@ -1,6 +1,6 @@
-_**Don't be tempted to break momentum—work through it.**_
+_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you. ... You are the only one who can put them together into that unique pattern that will be your life.**_
 
-Lorii Myers
+John Gardner
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
