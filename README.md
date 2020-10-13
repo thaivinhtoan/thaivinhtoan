@@ -1,6 +1,6 @@
-_**A show of confidence raises the bar**_
+_**Do not be afraid to give up the good for the great.**_
 
-Lorii Myers
+Kenny Rogers
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
