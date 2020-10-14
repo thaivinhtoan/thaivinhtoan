@@ -1,6 +1,6 @@
-_**Do not be afraid to give up the good for the great.**_
+_**Hang Out with People Who are Better than You.**_
 
-Kenny Rogers
+Warren Buffett
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
