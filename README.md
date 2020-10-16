@@ -1,6 +1,6 @@
-_**When it comes to winning, you need the skill and the will.**_
+_**Things are not bad in themselves, but our cowardice makes them so.**_
 
-Frank Tyger
+Michel de Montaigne
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
