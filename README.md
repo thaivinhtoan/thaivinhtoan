@@ -1,6 +1,6 @@
-_**Things are not bad in themselves, but our cowardice makes them so.**_
+_**There's such a thin line between winning and losing.**_
 
-Michel de Montaigne
+John R. Tunis
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
