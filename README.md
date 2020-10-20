@@ -1,6 +1,6 @@
-_**You defeated me But you won't defeat me again Because you have grown all you can grow.... but I am still growing (about Mount Everest).**_
+_**When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.**_
 
-Edmund Hillary
+Anuj Somany
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
