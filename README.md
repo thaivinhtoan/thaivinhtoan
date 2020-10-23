@@ -1,6 +1,6 @@
-_**When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life.**_
+_**We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.**_
 
-Jean Shinoda Bolen
+Sheryl Sandberg
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
