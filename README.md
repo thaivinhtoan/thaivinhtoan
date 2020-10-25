@@ -1,6 +1,6 @@
-_**Named must your fear be before banish it you can.**_
+_**Man needs his difficulties because they are necessary to enjoy success.**_
 
-Yoda
+A. P. J. Abdul Kalam
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
