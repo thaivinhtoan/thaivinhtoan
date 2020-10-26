@@ -1,6 +1,6 @@
-_**Man needs his difficulties because they are necessary to enjoy success.**_
+_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure—giving up does.**_
 
-A. P. J. Abdul Kalam
+Lorii Myers
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
