@@ -1,6 +1,6 @@
-_**If you cannot do great things, do small things in a great way.**_
+_**Don't be tempted to break momentum—work through it.**_
 
-Napoleon Hill
+Lorii Myers
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
