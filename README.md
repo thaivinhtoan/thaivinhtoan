@@ -1,6 +1,6 @@
-_**The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.**_
+_**The journey of a thousand miles begins with one step.**_
 
-Charles Bukowski
+Lao Tzu
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
