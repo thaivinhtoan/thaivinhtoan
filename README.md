@@ -1,6 +1,6 @@
-_**The journey of a thousand miles begins with one step.**_
+_**If you like what you do, and you’re lucky enough to be good at it, do it for that reason.**_
 
-Lao Tzu
+Phil Grimshaw
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
