@@ -1,6 +1,6 @@
-_**If you like what you do, and you’re lucky enough to be good at it, do it for that reason.**_
+_**When I was a little kid, I was really scared of the dark. But then I came to understand, dark just means the absence of photons in the visible wavelength 400 to 700 nanometers. Then I thought, well it's really silly to be afraid of a lack of photons. Then I wasn't afraid of the dark anymore after that.**_
 
-Phil Grimshaw
+Elon Musk
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
