@@ -1,6 +1,6 @@
-_**Things are not bad in themselves, but our cowardice makes them so.**_
+_**Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.**_
 
-Michel de Montaigne
+Arthur Ashe
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
