@@ -1,6 +1,6 @@
-_**Don't be afraid of losing, be afraid of playing a game and not learning something.**_
+_**If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.**_
 
-Dan Heisman
+Elon Musk
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
