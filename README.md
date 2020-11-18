@@ -1,6 +1,6 @@
-_**Excellence prospers in the absence of excuses.**_
+_**Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.**_
 
-Lorii Myers
+Henry David Thoreau
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
