@@ -1,6 +1,6 @@
-_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
+_**The man who has confidence in himself gains the confidence of others.**_
 
-Dale Carnegie
+Hasidic Proverb
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
