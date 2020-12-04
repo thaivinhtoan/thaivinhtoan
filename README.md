@@ -1,6 +1,6 @@
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+_**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**_
 
-Lorii Myers
+Larry Page
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
