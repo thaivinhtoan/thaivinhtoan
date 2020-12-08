@@ -1,6 +1,6 @@
-_**Hang Out with People Who are Better than You.**_
+_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
 
-Warren Buffett
+Mohamad Ali
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
