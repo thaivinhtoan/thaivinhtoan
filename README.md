@@ -1,6 +1,6 @@
-_**It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Mohamad Ali
+Napoleon Hill
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
