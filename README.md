@@ -1,6 +1,6 @@
-_**Where there is ruin, there is hope for a treasure.**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-Rumi
+Winston Churchill
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
