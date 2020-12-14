@@ -1,6 +1,6 @@
-_**Let our advance worrying become advance thinking and planning.**_
+_**The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.**_
 
-Winston Churchill
+Barack Obama
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
