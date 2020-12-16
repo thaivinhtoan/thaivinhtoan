@@ -1,6 +1,6 @@
-_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Charles F. Kettering
+Japanese Proverb
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
