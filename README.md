@@ -1,6 +1,6 @@
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'**_
 
-Japanese Proverb
+Mohamad Ali
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
