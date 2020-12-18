@@ -1,6 +1,6 @@
-_**I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'**_
+_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
 
-Mohamad Ali
+Lorii Myers
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
