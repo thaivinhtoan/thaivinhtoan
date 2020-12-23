@@ -1,6 +1,6 @@
-_**You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.**_
+_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
 
-Brene Brown
+Sidney Greenberg
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
