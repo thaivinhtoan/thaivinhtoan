@@ -1,6 +1,6 @@
-_**The determination to win is the better part of winning.**_
+_**Let us think the unthinkable, let us do the undoable, let us prepare to grapple with the ineffable itself, and see if we may not eff it after all.**_
 
-Daisaku Ikeda
+Douglas Adams
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
