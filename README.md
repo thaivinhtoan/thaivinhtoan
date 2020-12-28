@@ -1,9 +1,6 @@
-_**One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.**_
+_**If you cannot do great things, do small things in a great way.**_
 
-Bruce Lee
+Napoleon Hill
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
