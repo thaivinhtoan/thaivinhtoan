@@ -1,6 +1,6 @@
-_**Stop complaining. Start creating.**_
+_**Do not let what you cannot do interfere with what you can do.**_
 
-Dale Patridge
+John Wooden
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
