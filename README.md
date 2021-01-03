@@ -1,6 +1,6 @@
-_**Do not let what you cannot do interfere with what you can do.**_
+_**Core passions and aspirations should be consistent and in sync.**_
 
-John Wooden
+Lorii Myers
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
