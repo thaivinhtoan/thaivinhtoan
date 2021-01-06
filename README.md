@@ -1,6 +1,6 @@
-_**In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.**_
+_**You will never win if you never begin.**_
 
-Vincent Van Gogh
+Helen Rowland
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
