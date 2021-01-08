@@ -1,6 +1,6 @@
-_**I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'**_
+_**Win any way as long as you can get away with it. Nice guys finish last.**_
 
-Mohamad Ali
+Leo Durocher
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
