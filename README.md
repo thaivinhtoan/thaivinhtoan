@@ -1,6 +1,6 @@
-_**Win any way as long as you can get away with it. Nice guys finish last.**_
+_**Where there is ruin, there is hope for a treasure.**_
 
-Leo Durocher
+Rumi
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
