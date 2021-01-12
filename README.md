@@ -1,6 +1,6 @@
-_**Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You'll win more trust, you'll win more business, and you'll win more peace of mind. You'll break the system and be even more successful.**_
+_**Many a false step was made by standing still.**_
 
-Dale Patridge
+Fortune Cookie
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
