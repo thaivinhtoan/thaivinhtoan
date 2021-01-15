@@ -1,6 +1,6 @@
-_**You make a living by what you earn; you make a life by what you give.**_
+_**If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.**_
 
-Winston Churchill
+Kevin Turner 
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
