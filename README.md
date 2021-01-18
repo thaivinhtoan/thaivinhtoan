@@ -1,6 +1,6 @@
-_**You defeated me But you won't defeat me again Because you have grown all you can grow.. But I am still growing (about Mount Everest).**_
+_**A successful man is one who can lay a firm foundation with the bricks that others throw at him.**_
 
-Edmund Hillary
+Sidney Greenberg
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
