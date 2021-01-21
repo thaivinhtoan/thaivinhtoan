@@ -1,6 +1,6 @@
-_**The man who removes a mountain begins by carrying away small stones..**_
+_**There's such a thin line between winning and losing.**_
 
-Chinese Proverb
+John R. Tunis
 
 > NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
 
