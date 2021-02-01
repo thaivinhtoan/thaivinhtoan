@@ -1,6 +1,6 @@
-_**The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.**_
+_**Stop complaining. Start creating.**_
 
-Bill Murray
+Dale Patridge
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
