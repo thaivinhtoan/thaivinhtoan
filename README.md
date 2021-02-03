@@ -1,6 +1,6 @@
-_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
+_**He who is not courageous enough to take risks will accomplish nothing in life.**_
 
-Matthew Keith Groves
+Mohamad Ali
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
