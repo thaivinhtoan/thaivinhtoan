@@ -1,6 +1,6 @@
-_**He who is not courageous enough to take risks will accomplish nothing in life.**_
+_**When it comes to winning, you need the skill and the will.**_
 
-Mohamad Ali
+Frank Tyger
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
