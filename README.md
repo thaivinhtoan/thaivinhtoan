@@ -1,6 +1,6 @@
-_**When it comes to winning, you need the skill and the will.**_
+_**When you win, say nothing. When you lose, say less.**_
 
-Frank Tyger
+Paul Brown
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
