@@ -1,4 +1,6 @@
-### Hi, I'm Quan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">\n\n_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
+### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
 
 Greg Child
 
@@ -9,7 +11,7 @@ Greg Child
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/iam_toanxz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vinhtoan466@gmail.com)
 
-<details><summary> Languages and Tools </summary>
+<details><summary> :zap: Languages and Tools </summary>
 <p>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
