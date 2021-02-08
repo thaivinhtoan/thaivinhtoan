@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&labelColor=blue&logo=twitter&logoColor=white)](https://twitter.com/iam_toanxz)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vinhtoan466@gmail.com)
 
-<details><summary> Languages and Tools </summary>
+<details><summary> :zap: Languages and Tools </summary>
 <p>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
