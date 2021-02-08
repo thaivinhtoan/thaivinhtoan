@@ -1,6 +1,6 @@
-_**Let our advance worrying become advance thinking and planning.**_
+### Hi, I'm Quan Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">\n\n_**Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.**_
 
-Winston Churchill
+Greg Child
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
@@ -11,40 +11,36 @@ Winston Churchill
 
 <details><summary> Languages and Tools </summary>
 <p>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/yii/yii.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redux/redux.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/redis/redis.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/npm/npm.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/heroku/heroku.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
 </p>
 </details>
 
-<details><summary> SEE MORE </summary>
+<details><summary> :zap: GitHub Stats </summary>
 <p>
 
-> NOTE: Top languages does not indicate my skill level or which language I use the most. Most of projects are in private repos!
+<table>
+<tr>
+  <td width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=thaivinhtoan&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaivinhtoan&layout=compact&show_icons=true&hide_border=true" />
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
 
-
-<a href="https://github.com/thaivinhtoan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thaivinhtoan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="thaivinhtoan GitHub stats" />
-</a>
-
-<a href="https://github.com/thaivinhtoan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaivinhtoan&&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-</a>
 </p>
 </details>
