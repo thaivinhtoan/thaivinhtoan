@@ -1,6 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
-const topLanguages = fs.readFileSync("content/topLanguages.txt", "utf8");
+const content = fs.readFileSync("content/content.txt", "utf8");
+const helloGit = fs.readFileSync("content/helloGit.txt", "utf8");
 
 const getQuote = async () => {
   try {
@@ -30,8 +31,9 @@ const generate = async () => {
   //fs.writeFileSync("README.md", `_**${quote}**_\n\n${author}`);
   var stream = fs.createWriteStream("README.md");
   stream.once("open", function (fd) {
+    stream.write(`${helloGit}`);
     stream.write(`_**${quote}**_\n\n${author}`);
-    stream.write(`\n\n${topLanguages}`);
+    stream.write(`\n\n${content}`);
     stream.end();
   });
 };
