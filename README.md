@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**The beginning of freedom is the realization that you are not the possessing entity the thinker.**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-Eckhart Tolle
+Winston Churchill
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
