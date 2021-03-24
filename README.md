@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light**_
+_**You make a living by what you earn; you make a life by what you give.**_
 
-Mary Dunbar
+Winston Churchill
 
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
