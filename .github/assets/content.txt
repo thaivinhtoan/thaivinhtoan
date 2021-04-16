@@ -1,3 +1,7 @@
+
+![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
+
+
 #### 📫 How to reach me:
 [![website](https://img.shields.io/badge/Website-46a2f1?style=flat&logo=Google-Chrome&logoColor=white&link=https://thaivinhtoan.github.io/)](https://thaivinhtoan.github.io/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/thaivinhtoan)
