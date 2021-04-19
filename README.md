@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**Perfection is not attainable, but if we chase perfection we can catch excellence..**_
+_**Once your excuses are gone, you will simply have to settle for being awesome!**_
 
-Vince Lombardi
+Lorii Myers
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
