@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**Do not be afraid to give up the good for the great.**_
+_**We don't have to do all of it alone. We were never meant to.**_
 
-Kenny Rogers
+Brene Brown
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
