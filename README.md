@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**Do not let what you cannot do interfere with what you can do.**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-John Wooden
+Winston Churchill
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
