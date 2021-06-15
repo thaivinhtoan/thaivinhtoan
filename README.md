@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**Do the best you can until you know better. Then when you know better, do better.**_
+_**He who is not courageous enough to take risks will accomplish nothing in life.**_
 
-Maya Angelou
+Mohamad Ali
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
