@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.**_
+_**If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.**_
 
-Tom Hanks
+Kevin Turner 
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
