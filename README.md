@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.**_
+_**At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.**_
 
-Kevin Turner 
+Lorii Myers
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
