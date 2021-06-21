@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
+_**Winning isn't everything.. It's the only thing.**_
 
-Larry Page
+Vincent van Gogh
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
