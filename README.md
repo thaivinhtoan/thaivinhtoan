@@ -1,8 +1,8 @@
 ### Hi, I'm Toan Thai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-_**There's such a thin line between winning and losing.**_
+_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
 
-John R. Tunis
+George Bernard Shaw
 
 
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
